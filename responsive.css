@@ -1,0 +1,41 @@
+@media screen and (max-width: 930px) {
+    .links a p {
+     display: none;
+    }
+   
+    .left button b{
+        display: none;
+    }
+    .left button{
+       padding: 27px;
+    }
+    .left{
+        width: 150px;
+    }
+    #right1{
+        display: none;
+    }
+    #main1{
+      padding-left: 47%;
+     
+    }
+    #home{
+      margin-left: 152px;
+     
+    }
+    .profile1 p{
+      display: none;
+    }
+    .post  , .post-1{
+        border-right: 1px solid rgb(166 159 159 / 23%);
+    }
+  }
+  .links a p{
+      margin-left:43px;
+      margin-top:-25px;
+  }
+  @media screen and (max-width: 630px){
+    .link{
+      background: #000;
+    }
+  }
