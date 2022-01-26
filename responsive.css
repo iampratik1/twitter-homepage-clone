@@ -79,9 +79,6 @@
     #right1{
       display: flex;
   }
-  button{
-    background: red;
-  }
   .left{
     width: 50px;
 }
@@ -110,9 +107,6 @@
   }
 
   @media screen and (max-width: 650px){
-   button{
-        background-color: green;
-   }
    #left1{
      display: none;
    }
