@@ -71,7 +71,9 @@
 
   @media screen and (max-width: 690px){
 
-   
+   .container{
+     width:526px;
+    }
     #right1{
       display: flex;
   }
